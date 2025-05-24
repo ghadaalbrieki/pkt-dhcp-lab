@@ -40,9 +40,10 @@ This is a simple network simulation project using **Cisco Packet Tracer**. The g
 
 ---
 
-## 📸 Screenshot
+ 📸 Screenshot
 
-Make sure to include a screenshot of your Packet Tracer topology in the file named `screenshot.png`.
+Please find the network topology screenshot saved as 'screenshot.png' in this folder.
+
 
 ---
 
